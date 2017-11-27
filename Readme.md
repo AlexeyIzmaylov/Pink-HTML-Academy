@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Лебедев Илья](https://up.htmlacademy.ru/adaptive/12/user/360247).
-* Наставник: `Сам себе наставник`.
+* Наставник: `Изменил для задания 1`.
 
 ---
 
